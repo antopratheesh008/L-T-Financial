@@ -1,0 +1,3 @@
+##Loan Default Prediction
+
+The dataset is from L&T Fin coprp. The ML model uses LightGBM for the binary classification problem. Light GBM is similar to XGBoost but runs at a much faster pace. Various data analytic techniques has been used. Seaborn heatmap has been used to find the correlation between variables.
